@@ -6,6 +6,7 @@ This is a brief description of your project.
 
 To push your code to GitHub, follow these steps:
 
-1. **Stage Your Changes:**
+1. **Run push.sh:**
+
    ```bash
-   git add .
+   ./push_to_github.sh "Your commit message here"
