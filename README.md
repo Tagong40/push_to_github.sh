@@ -1,4 +1,4 @@
-# Your Project
+# git push sh
 
 
 ## How to Push Code to GitHub
@@ -11,7 +11,7 @@ To push your code to GitHub, follow these steps:
    ./push_to_github.sh "Your commit message here"
    ```
    
-2. **Permission denied**
+2. **If permission denied**
 
    ```bash
    chmod +x push.sh
